@@ -1,3 +1,4 @@
+package activity1;
 class student {
     private int Student_Id;
     private String Name;
